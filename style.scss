@@ -20,7 +20,7 @@ html {
 body {
 	background: $darkGray;
   font: 18px/1.4 $helvetica;
-  color: $gray;
+  color: $lightGray;
 }
 
 .container {
@@ -30,9 +30,16 @@ body {
   width: 100%;
 }
 
+.headercontainer {
+  margin: 0 0;
+  max-width: auto;
+  padding: 0 0;
+  width: 100%;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $white;
+  color: $gray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -151,12 +158,13 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  padding: 20px 10px;
+  border-bottom: 0px solid $gray;
+  background: $darkerGray;
 
   @include mobile {
     text-align: center;
@@ -215,7 +223,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
-
+  
   @include mobile {
     float: none;
     margin-top: 9px;
@@ -286,4 +294,3 @@ footer {
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
-@import "svg-icons";
