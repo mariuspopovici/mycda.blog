@@ -21,7 +21,18 @@ body {
   background: $darkGray;
   font: 18px/1.4 $helvetica;
   color: $lightGray;
-  min-height: 100vh;
+  height: 100%;
+}
+
+#page-wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  // Negative indent footer by it's height
+  margin-bottom: -($footerHeight);
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
 }
 
 .container {
@@ -37,6 +48,11 @@ body {
   padding: 0 0;
   width: 100%;
 }
+
+.center {
+  text-align: center;
+}
+
 
 h1,
 h2,
@@ -259,13 +275,36 @@ nav {
   }
 }
 
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: $gray;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid $darkGray;
+  margin: 0 4px;
+}
+
+.pagination a.active {
+  background-color: #4CAF50;
+  color: white;
+  border: 1px solid #4CAF50;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+
+
 //
 // .main
 //
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $darkerGray;
 }
 
 .posts > .post:last-child {
@@ -294,15 +333,18 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: 0px;
   border-top: 1px solid $darkGray;
   border-bottom: 1px solid $darkGray;
   background-color: $darkGray;
 }
 
-footer {
-  padding: 20px 0;
+.footer-push, footer {
+  padding: 25px 0;
   text-align: center;
+  height: $footerHeight;
+  max-height: $footerHeight;
+  overflow: hidden;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

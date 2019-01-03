@@ -71,13 +71,18 @@ sass:
 # Pagination Settings
 pagination:
   enabled: true
+  debug: false
+  collection: 'posts'
   per_page: 3
-  offset: 2
   permalink: '/page/:num/'
   title: ':title - page :num of :max'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+  
 
 # Use the following plug-ins
 plugins:
