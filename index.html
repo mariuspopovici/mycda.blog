@@ -1,0 +1,33 @@
+---
+layout: default
+pagination: 
+  enabled: true
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+  
+  <p></p>
+  
+  <!-- Showing pagination trail buttons -->
+  {% if paginator.page_trail %}
+  <div class="center">
+    <div class="pagination">
+        {% for trail in paginator.page_trail %}
+          <a {% if page.url == trail.path %}class="active"{% endif %} href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
+        {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+</div>
