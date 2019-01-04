@@ -82,7 +82,7 @@ pagination:
     after: 2
 
 # Use the following plug-ins
-plugins_dir:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-paginate-v2 # Enable post paging - This plugin doesn't work on Github Pages
