@@ -8,6 +8,8 @@ name: Marius Popovici
 # Short bio or description (displayed in the header)
 description: Triathlon, technology and related geekery
 
+long_description: The personal blog of Marius Popovici. Marius is a software engineer and triathlete who writes about technology and triathlon. Topics include race reports, aerodynamics, software tutorials, product reviews and others.
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://www.gravatar.com/avatar/8ce5af6d64a671fbba1edb92417268c0
 
