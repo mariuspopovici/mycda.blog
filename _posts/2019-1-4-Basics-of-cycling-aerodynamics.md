@@ -47,7 +47,7 @@ In terms of actual real world numbers, as a rule of thumb, at 30mph a CdA of 0.0
 
 #### How is CdA Measured?
 
-Typically, an accurate measurement of CdA can be made using wind tunnel testing, however there are ways in which a fairly close estimate of CdA can be made using field testing by using power, speed, rolling resistance and air density measurements. This is actually a very interesting area that I'm currently exploring and experimenting with myself and I plan to write a post about it in the future. 
+Typically, an accurate measurement of CdA can be made using wind tunnel testing, however there are ways in which a fairly close estimate of CdA can be made using field testing by using power, speed, rolling resistance, mass and air density measurements. This is actually a very interesting area that I'm currently exploring and experimenting with myself and I plan to write a post about it in the future. 
 
 #### What are some common strategies to reduce CdA?
 
