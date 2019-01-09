@@ -7,14 +7,14 @@ tags: continental grand prix supersonic 23c hed jet+ jet plus black aero crr cda
 exerpt_separator: <!--more-->
 ---
 
-I'm in the process of trying to determine my tire / rim setup for the coming 2019 racing season. For the last three seasons I've been running Continental Supersonic 23c tires on my previous setup (FLO 60 Carbon Clincher / Al-Carbon Disc) and recently I've switched to a HED Jet+ 6 Black front / HED Jet Plus Disc Black rear combo. I use Vittoria latex tubes and most recently I've been using the new [Silca latex tubes](https://amzn.to/2VD8zCR) with Aluminum valves.
+I'm in the process of choosing my tire / rim setup for the coming 2019 racing season. For the last three seasons I've been running Continental Supersonic 23c tires on FLO 60 Carbon Clincher front / Al-Carbon Disc rear but recently I've switched to a HED Jet+ 6 Black front / HED Jet Plus Disc Black rear combo setup. For many years I've used Vittoria latex tubes but a few months ago I've started using the new [Silca latex tubes](https://amzn.to/2VD8zCR) with Aluminum valves.
 
 HED Jet+ tires are very wide rims with a 21mm internal width and 25mm external width. Tire choice is not as intuitive to figure out on these wheels and also pressure needs to be lower than on classic narrow rims. What happens when you mount tires on wide rims is that they tend to balloon in size from their nominal width by up to 2-3 or 4mm. In general, for maximum performance you are looking at two things when it comes to tire choice:
 
 - Aerodynamics
 - Rolling Resistance
 
-Aerodynamics is influenced by two factors. One of them is how well the tire fits with the rim it's being mounted on. Generally it is best to abide by the [105% rule](https://silca.cc/blogs/journal/part-5-tire-pressure-and-aerodynamic) which says that the rim must be at least 105% the width of the tire in order for it to perform aerodinamically at its best. The other factor is tire aerodynamics or tire tread texture. In general, certain tread patterns tend to have a better Cd (drag coefficient) than tires with a perfectly smooth profile.
+Aerodynamics is influenced by two factors. One of them is how well the tire fits with the rim it's being mounted on. Generally it's best to abide by the [105% rule](https://silca.cc/blogs/journal/part-5-tire-pressure-and-aerodynamic) which says that the rim must be at least 105% the width of the tire in order for it to perform aerodinamically at its best. The other factor is tire aerodynamics or tire tread texture. In general, certain tread patterns tend to have a better Cd (drag coefficient) than tires with a perfectly smooth profile.
 
 Rolling resistance is also a very important factor in tire choice. The [difference](https://docs.google.com/spreadsheets/d/1vTm2AQYKeDuabP8Qiv5_AjatJVNYSY_DRBOeFmO3-_8/edit#gid=1567734751) between the smoothest rolling tires and the worst ones can be as high as 10W per tire which translates to 20W total or 6 minutes over the course of an Ironman bike split (112mi). Coincidentally, 6 minutes is about the average time you would spend changing a flat tire so to me it's a no brainer to choose low rolling resistance over puncture protection any day of the week. Keep this in mind the next time you're thinking of racing on those Gatorskins :)
 
