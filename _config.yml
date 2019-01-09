@@ -89,6 +89,11 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-paginate-v2 # Enable post paging - This plugin doesn't work on Github Pages
   - jekyll-youtube
+  - jekyll-picture-tag
+
+picture:
+  source: 'assets/images/_fullsize'
+  output: 'assets/images/generated'
 
 # Exclude these files from your production _site
 exclude:

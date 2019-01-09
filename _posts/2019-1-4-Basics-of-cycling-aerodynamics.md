@@ -35,7 +35,7 @@ So how can you reduce aerodynamic drag in order to go faster while maintaining t
 
 Here are some typical CdA values (lower is better):
 
-| Type                       | CdA (m<sup>2</sup>) |
+| Position Type              | CdA (m<sup>2</sup>) |
 | -------------------------- | ------------------- |
 | Road Bike (hoods)          | 0.316               |
 | Road Bike (drops)          | 0.296               |
