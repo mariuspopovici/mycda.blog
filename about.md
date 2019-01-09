@@ -10,11 +10,11 @@ tags: marius popovici triathlon software engineer
 
 I'm a software engineer and triathlete living in South Florida, originally from Cluj-Napoca, Romania. I write code, swim, bike, run and then come here to write all about it.
 
-I created this site to document things that I learn and that I'm passionate about and share some of it with the world.
+I created this site to document things that I learn and that I'm passionate about and share some of them with the world.
 
 ### Frontdoor Brag Area
 
-3x Ironman Finisher (10:20 PB), multiple 70.3 distance finishes (4:34 PB), Team USA Triathlon athlete (Long Distance) and several seasons as USA Triathlon All American.
+3x Ironman Finisher (10:20 PB), multiple triathlon 70.3 distance finishes (4:34 PB), Team USA Triathlon athlete (Long Distance) and several seasons as USA Triathlon All American.
 
 ### Organizations
 

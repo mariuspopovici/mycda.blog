@@ -38,7 +38,8 @@ For me, based on previous experience and research I have narrowed down the follo
 
 Tires that are great candidates but I have excluded them from the short list:
 
-- Vittoria Corsa Speed (best rolling resistance, very good aero, reports of being pretty difficult to mount on HED Jet+ rims but tubeless ready). Probably the best tire choice going purely by the numbers but supposedly flat prone even in tubeless setup and almost impossible to mount with a tube. Would consider it for short races or time trials where speed is everything.
+- Vittoria Corsa Speed TLR (best rolling resistance, very good aero, reports of being pretty difficult to mount on HED Jet+ rims but tubeless ready). Probably the best tire choice going purely by the numbers but supposedly flat prone even in tubeless setup and almost impossible to mount with a tube. Would consider it for short races or time trials where speed is everything.
+- Any tire over 23c width as that seems to be the treshold where the width of the tire starts to exceed the width of the rim.
 
 I will rely on existing rolling resistance tests, published wind tunnel data combined with intuition and good old fashion eye-balling to come up with the best possible combination for me. My own testing will follow a simple protocol:
 
@@ -46,15 +47,18 @@ I will rely on existing rolling resistance tests, published wind tunnel data com
 - Inflate 75psi, measure tire width using a [digital caliper](https://amzn.to/2VEzDBL).
 - Repeat measurement at 85psi and 95psi.
 
-I will be using my own Specialized floor pump and double check pressure with a [digital gauge](https://amzn.to/2LYYrjr). I will not be testing pressures above 95psi as they exceed the maximum recommended pressure by HED for the Jet+ rims.
+I will be using my own Specialized floor pump and double check pressure with a [digital gauge](https://amzn.to/2LYYrjr). I will not be testing pressures above 95psi as they are over the maximum recommended pressure by HED for the Jet+ rims (which is another interesting bit of information to discuss in a future post).
 
 I will be documenting my findings in this post over the coming weeks as I find the time to test all the different options. 
 
+| Tire                         | Crr*   | 75psi | 85psi | 95psi | Aero    |
+| ---------------------------- | ------ | ----- | ----- | ----- |
+| Conti GP Supersonic 23c      | 0.0027 | 25.24 | 25.46 | 26.00 | Unknown |
+| Conti GP Supersonic 20c      | 0.0030 | TBD   | TBD   | TBD   | Unknown |
+| Conti GP 4000SII 23c         | 0.0034 | TBD   | TBD   | TBD   | Unknown |
+| Conti GP 5000 23c            | 0.0030 | TBD   | TBD   | TBD   | Unknown |
+| Vittoria Corsa Speed TLR 23c | 0.0025 | TBD   | TBD   | TBD   | Unknown |
 
-
-| Tire                                  | Crr    | W @ 75psi | W @ 85psi | W @ 95psi | Aero    |
-| ------------------------------------- | ------ | --------- | --------- | --------- |
-| Continental Grand Prix Supersonic 23c | 0.0027 | 25.24     | 25.46     | 26.00     | Unknown |
-
+\* Crr @ 120psi
 
 {% picture hedjetplustires/contiSS23collage.png alt="Continental Grand Prix SS 23c" %}

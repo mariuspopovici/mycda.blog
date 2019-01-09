@@ -52,9 +52,15 @@ I will be documenting my findings in this post over the coming weeks as I find t
 
 
 
-| Tire                                  | Crr    | W @ 75psi | W @ 85psi | W @ 95psi | Aero    |
-| ------------------------------------- | ------ | --------- | --------- | --------- |
-| Continental Grand Prix Supersonic 23c | 0.0027 | 25.24     | 25.46     | 26.00     | Unknown |
+| Tire                         | Crr*   | 75psi | 85psi | 95psi | Aero    |
+| ---------------------------- | ------ | ----- | ----- | ----- |
+| Conti GP Supersonic 23c      | 0.0027 | 25.24 | 25.46 | 26.00 | Unknown |
+| Conti GP Supersonic 20c      | 0.0030 | TBD   | TBD   | TBD   | Unknown |
+| Conti GP 4000SII 23c         | 0.0034 | TBD   | TBD   | TBD   | Unknown |
+| Conti GP 5000 23c            | 0.0030 | TBD   | TBD   | TBD   | Unknown |
+| Vittoria Corsa Speed TLR 23c | 0.0025 | TBD   | TBD   | TBD   | Unknown |
+
+\* Crr @ 120psi
 
 
 {% picture hedjetplustires/contiSS23collage.png alt="Continental Grand Prix SS 23c" %}
