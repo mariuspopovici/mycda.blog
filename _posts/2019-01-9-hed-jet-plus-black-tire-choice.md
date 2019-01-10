@@ -14,7 +14,7 @@ HED Jet+ tires are very wide rims with a 21mm internal width and 25mm external w
 - Aerodynamics
 - Rolling Resistance
 
-Aerodynamics is influenced by two factors. One of them is how well the tire fits with the rim it's being mounted on. Generally it's best to abide by the [105% rule](https://silca.cc/blogs/journal/part-5-tire-pressure-and-aerodynamic) which says that the rim must be at least 105% the width of the tire in order for it to perform aerodinamically at its best. The other factor is tire aerodynamics or tire tread texture. In general, certain tread patterns tend to have a better Cd (drag coefficient) than tires with a perfectly smooth profile.
+Aerodynamics is influenced by two factors. One of them is how well the tire fits with the rim it's being mounted on. Generally it's best to abide by the [105% rule](https://silca.cc/blogs/journal/part-5-tire-pressure-and-aerodynamics) which says that the rim must be at least 105% the width of the tire in order for it to perform aerodinamically at its best. The other factor is tire aerodynamics or tire tread texture. In general, certain tread patterns tend to have a better Cd (drag coefficient) than tires with a perfectly smooth profile.
 
 Rolling resistance is also a very important factor in tire choice. The [difference](https://docs.google.com/spreadsheets/d/1vTm2AQYKeDuabP8Qiv5_AjatJVNYSY_DRBOeFmO3-_8/edit#gid=1567734751) between the smoothest rolling tires and the worst ones can be as high as 10W per tire which translates to 20W total or 6 minutes over the course of an Ironman bike split (112mi). Coincidentally, 6 minutes is about the average time you would spend changing a flat tire so to me it's a no brainer to choose low rolling resistance over puncture protection any day of the week. Keep this in mind the next time you're thinking of racing on those Gatorskins :)
 
@@ -52,13 +52,13 @@ I will be documenting my findings in this post over the coming weeks as I find t
 
 
 
-| Tire                         | Crr*   | 75psi | 85psi | 95psi | Aero    |
+| Tire                         | Crr*   | 75psi | 85psi | 95psi | Aero |
 | ---------------------------- | ------ | ----- | ----- | ----- |
-| Conti GP Supersonic 23c      | 0.0027 | 25.24 | 25.46 | 26.00 | Unknown |
-| Conti GP Supersonic 20c      | 0.0030 | TBD   | TBD   | TBD   | Unknown |
-| Conti GP 4000SII 23c         | 0.0034 | TBD   | TBD   | TBD   | Unknown |
-| Conti GP 5000 23c            | 0.0030 | TBD   | TBD   | TBD   | Unknown |
-| Vittoria Corsa Speed TLR 23c | 0.0025 | TBD   | TBD   | TBD   | Unknown |
+| Conti GP Supersonic 23c      | 0.0027 | 25.24 | 25.46 | 26.00 | TBD  |
+| Conti GP Supersonic 20c      | 0.0030 | TBD   | TBD   | TBD   | TBD  |
+| Conti GP 4000SII 23c         | 0.0034 | TBD   | TBD   | TBD   | TBD  |
+| Conti GP 5000 23c            | 0.0030 | TBD   | TBD   | TBD   | TBD  |
+| Vittoria Corsa Speed TLR 23c | 0.0025 | TBD   | TBD   | TBD   | TBD  |
 
 \* Crr @ 120psi
 
