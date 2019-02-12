@@ -1,10 +1,7 @@
-# My Awesome Jekyll Powered Blog
+# MyCdA.App Blog
 
-This is the source repository for my **Jekyll** based blog published at https://blog.popovici.net
-
-I started this blog to learn about static page generators such as Jekyll get more proficient with Markdown and Liquid and not the least start keeping a journal of thoughts on topics that I'm passionate about right now such as triathlon, sports performance and technology.
-
-**Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
+This is the source repository the **Jekyll** based blog published at https://blog.mycda.app
+The purpose of this repository is to host the MyCdA.App end user documentation, FAQs, announcements, posts on aerodynamics etc.
 
 I started from a fork of [Jekyll Now](http://www.jekyllnow.com/) and added some additional features such as pagination, a customized dark theme, font awesome icons etc.
 
