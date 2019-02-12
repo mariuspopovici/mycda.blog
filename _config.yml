@@ -3,15 +3,15 @@
 #
 
 # Name of your site (displayed in the header)
-name: Marius Popovici
+name: MyCdA.App Blog
 
 # Short bio or description (displayed in the header)
-description: Triathlon, technology and related geekery
+description: User documentation, FAQ, Support and aero talk
 
-long_description: The personal blog of Marius Popovici. Marius is a software engineer and triathlete who writes about technology and triathlon. Topics include race reports, aerodynamics, software tutorials, product reviews and others.
+long_description: MyCdA.App blog. MyCdA.app lets you use data collected using a power meter, speed sensor and a cycling computer and estimate your drag coefficient (CdA) and /or rolling resistance (crr). Compare data across different runs in order to determine if an equipment or position change is beneficial or not. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.gravatar.com/avatar/8ce5af6d64a671fbba1edb92417268c0
+avatar: https://www.gravatar.com/avatar/88f2dcb55eee58d2adaaab0cac7dc495
 
 #
 # Flags below are optional
@@ -21,23 +21,23 @@ avatar: https://www.gravatar.com/avatar/8ce5af6d64a671fbba1edb92417268c0
 footer-links:
   email:
   facebook:
-  github: mariuspopovici
-  instagram: mariuspopovici
+  github: mariuspopovici/mycda.app
+  instagram:
   linkedin:
   rss: # just type anything here for a working RSS icon
-  twitter: mariusp
+  twitter:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: mariuspopovici
+disqus: mycda
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-131852681-1
+google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://blog.popovici.net
+url: https://blog.mycda.app
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
